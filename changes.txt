@@ -1,0 +1,15 @@
+﻿6 de febrero del 2016:
+* se creó: el proyecto
+* se introdujeron: 3 archivos de audio para pruebas en browser, el plugin device
+* se escribió: el codigo del audio para pruebas en browser, el código de la consola, el codigo de directorios.
+
+7 de Febrero del 2016:
+* Se introdujó: plugin dialogs, splashscreen, vibration; 4 botones para pruebas; splashscreen para android; 2 boton mas para audios
+* Se cambio: audios
+* se escribio: codigo hidden para botones, las gracias, codigo de vibracion
+* errores: vibracion no es soportada en android, solucionar!
+
+8 de febrero del 2016:
+* se soluciono: errores de vibración
+* se agrego 4 botones para pruebas de vibracion; font y pruebas del font.
+* se escribio fechas en el log
